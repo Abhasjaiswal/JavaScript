@@ -1,0 +1,7 @@
+What is a variable?
+A variable is a container for a value, like a number we might use in a sum, or a string that we might use as part of a sentence.
+
+One special thing about variables is that they can contain just about anything — not just strings and numbers. Variables can also contain complex data and even entire functions to do amazing things. You'll learn more about this as you go along.
+
+Note: We say variables contain values. This is an important distinction to make. Variables aren't the values themselves; they are containers for values. You can think of them being like little cardboard boxes that you can store things in.
+
